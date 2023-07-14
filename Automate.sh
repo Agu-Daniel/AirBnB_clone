@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Hi Boss Innocent Charles, kindly Enter your commit message"
+echo "Hi Boss Agu Daniel, kindly Enter your commit message"
 read message
 
 
