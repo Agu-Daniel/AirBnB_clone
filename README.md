@@ -1,23 +1,4 @@
 # AirBnB Clone - The Console
-
-<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/263/HBTN-hbnb-Final.png" width="1500" height="300">
-
-## Table of Contents
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwbu7I0P3Z7QwpykqLZiAG8SH-fDv9Mo5KBg&usqp=CAU" width="1500" height="200">
-* [Description](#description)
-* [Purpose](#purpose)
-* [Requirements](#requirements)
-* [File Structure](#file-structure)
-* [Usage Examples](#usage-examples)
-* [Bugs](#bugs)
-* [Authors](#authors)
-* [License](#license)
-
-
-## Description
-
-<img src="https://camo.githubusercontent.com/97788fc5310cea2961d9d8dbfa9cb4b6aacd420eb1efb27372af451d7f04b7a7/68747470733a2f2f692e696d6775722e636f6d2f6f764d4e79455a2e706e67" width="1500" height="300">
-
 ## Purpose
 
 The purpose of this project is to understand how to:   
@@ -143,5 +124,5 @@ At this time, there are no known bugs.
 **AirBnB Clone** is open source and free to download and use
 
 ## Author
-@ [UDO INNOCENT CHARLES](https://github.com/Innocentsax)
-@ [BEN ASMAH](https://github.com/drbenasmah)
+@ [AGU DANIEL](https://github.com/Agu-Daniel)
+@ [CHINWE OKEKE](https://github.com/Chinwejerry)
